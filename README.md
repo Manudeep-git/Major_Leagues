@@ -9,10 +9,10 @@ Datset Chosen: https://github.com/fivethirtyeight/data/tree/master/soccer-spi_la
 
 The following objectives were listed for the project
 
-1.Pick one of the game data sets depending your sports preference
-https://github.com/fivethirtyeight/nfl elo game
-https://github.com/fivethirtyeight/data/tree/master/mlb-elo
-https://github.com/fivethirtyeight/data/tree/master/nba-carmelo
+1.Pick one of the game data sets depending your sports preference<br>
+https://github.com/fivethirtyeight/nflelo-game<br>
+https://github.com/fivethirtyeight/data/tree/master/mlb-elo<br>
+https://github.com/fivethirtyeight/data/tree/master/nba-carmelo<br>
 https://github.com/fivethirtyeight/data/tree/master/soccer-spi</br>
 2.Load the data set into panda data frames </br>
 3.Formulate one or two ideas on how feature engineering would help the data set to establish additional value using exploratory data analysis </br>
